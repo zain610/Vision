@@ -22,7 +22,7 @@ For future development, we plan on adding more filters and combining more datas.
 Google Map Api
 https://developers.google.com/maps/documentation/javascript/tutorial
 
-Google API Key: AIzaSyCOTCo9ek5D5h2D4IUxnb9ZVkoK6-QP0-g Use with key=API_KEY
+Google API Key: Add user Google API Use with key=API_KEY
 
 ## Requirements
 Node.JS v9+
